@@ -25,13 +25,26 @@ python src/predict.py
 python app/app.py
 ```
 ## Directory structure  
-📦 project  
- ┣ 📂 app              # Giao diện Streamlit  
- ┣ 📂 models           # Lưu model & encoder  
- ┣ 📂 notebook         # Các file Notebook EDA và training  
- ┣ 📂 reports          # Báo cáo, slide  
- ┣ 📂 src              # Code xử lý, huấn luyện, dự đoán  
- ┣ 📜 config.py        # Đường dẫn cố định  
- ┣ 📜 Full_Code.py     # Tất cả code của dự án  
- ┗ 📜 README.md
+📦 final-report  
+ ┣ 📂 app  
+ ┃ ┗ 📜 app.py  
+ ┣ 📂 models  
+ ┃ ┣ 📜 best_model.pkl  
+ ┃ ┣ 📜 encoder.pkl  
+ ┃ ┣ 📜 models_metrics.pkl  
+ ┃ ┗ 📜 preprocess.pkl  
+ ┣ 📂 notebook  
+ ┃ ┣ 📜 EDA.ipynb  
+ ┃ ┗ 📜 MODEL_TRAINING.ipynb  
+ ┣ 📂 reports  
+ ┃ ┣ 📜 GiuakiMLnvc.docx  
+ ┃ ┗ 📜 Slide báo cáo giữa kì ML nhóm 5.pptx  
+ ┣ 📂 src  
+ ┃ ┣ 📜 data_processing.py  
+ ┃ ┣ 📜 train.py  
+ ┃ ┣ 📜 predict.py  
+ ┃ 📜 config.py  
+ ┃ 📜 Final_Code.ipynb  
+ ┗ 📜 README.md  
+
 
