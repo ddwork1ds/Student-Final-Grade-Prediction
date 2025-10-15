@@ -25,13 +25,13 @@ python src/predict.py
 python app/app.py
 ```
 ## Directory structure  
-📦 project
- ┣ 📂 app              # Giao diện Streamlit
- ┣ 📂 models           # Lưu model & encoder
- ┣ 📂 notebook         # Các file Notebook EDA và training
- ┣ 📂 reports          # Báo cáo, slide
- ┣ 📂 src              # Code xử lý, huấn luyện, dự đoán
- ┣ 📜 config.py        # Đường dẫn cố định
- ┣ 📜 Full_Code.py     # Tất cả code của dự án
+📦 project  
+ ┣ 📂 app              # Giao diện Streamlit  
+ ┣ 📂 models           # Lưu model & encoder  
+ ┣ 📂 notebook         # Các file Notebook EDA và training  
+ ┣ 📂 reports          # Báo cáo, slide  
+ ┣ 📂 src              # Code xử lý, huấn luyện, dự đoán  
+ ┣ 📜 config.py        # Đường dẫn cố định  
+ ┣ 📜 Full_Code.py     # Tất cả code của dự án  
  ┗ 📜 README.md
 
