@@ -27,6 +27,11 @@ python app/app.py
 📦 final-report  
  ┣ 📂 app  
  ┃ ┗ 📜 app.py  
+ ┣ 📂 data  
+ ┃ ┗ 📜 processed.csv  
+ ┃ ┗ 📜 unprocessed.csv  
+ ┃ ┗ 📜 X-test.py  
+ ┃ ┗ 📜 y-text.py  
  ┣ 📂 models  
  ┃ ┣ 📜 best_model.pkl  
  ┃ ┣ 📜 encoder.pkl  
