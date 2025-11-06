@@ -1,10 +1,11 @@
 # Student-Final-Grade-Prediction
 ## Dự án này nhằm mục đích dự đoán kết quả cuối cùng của học sinh để giúp giáo viên theo dõi sự tiến bộ của học sinh. 
 ## Installation  
+### Vào Command Prompt(Window + R -> gõ cmd)
 ### Tải clone
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/ddwork1ds/Student-Final-Grade-Prediction.git
+cd Student-Final-Grade-Prediction
 ```
 ### Tải thư viện
 ```bash
