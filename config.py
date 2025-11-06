@@ -1,9 +1,3 @@
-"""
-📁 config.py — Cấu hình trung tâm cho toàn bộ dự án FINAL REPORT
-Tác giả: Trần Đình Đạt
-Mục đích: Quản lý đường dẫn và thiết lập chung cho pipeline ML end-to-end
-"""
-
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
