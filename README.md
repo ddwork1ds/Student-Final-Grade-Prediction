@@ -22,7 +22,7 @@ python src/predict.py
 ```
 ### Chạy app
 ```bash
-python app/app.py
+streamlit run app/app.py
 ```
 ## Directory structure  
 📦 final-report  
